@@ -33,6 +33,6 @@ let handler = async (m, { conn, text, args, usedPrefix, command }) => {
 
 handler.help = ['gpt4 <text>'];
 handler.tags = ['tools'];
-handler.command = /^(بقولك)$/i;
+handler.command = /^(بوت)$/i;
 
 export default handler;
