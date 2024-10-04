@@ -22,7 +22,7 @@ let handler = async (m, { conn, text, args, usedPrefix, command }) => {
       'https://envs.sh/wHc.jpg', 
       [['الــمــطـور', `.المطور`]], 
       null, 
-      [['قــنـاة الــبــوت', `https://whatsapp.com/channel/0029ValRCUIFi8xmK9xBOr0I`]], 
+      [['مطور الــبــوت', `https://wa.me/201223010181`]], 
       m
     );
   } catch (error) {
